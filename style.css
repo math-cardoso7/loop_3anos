@@ -30,3 +30,24 @@ h1 {color: brown;
         transform: translateX(0);
     }
 }
+h1 {color: indigo;
+}
+h1 {font-size: 400%;
+}
+h1 {text-align: center;
+}
+
+h2 {color: darkgreen;
+}
+h2 {font-size: 400%;
+}
+h2 {text-align: center;
+}
+
+h3 {color: chartreuse;
+}
+
+h3 {font-size: 400%;
+}
+h3 {text-align: center;
+}
