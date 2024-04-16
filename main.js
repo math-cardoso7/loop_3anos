@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Quem é o melhor amigo do Mario?");
 
     
-    if (respostaTime.toLowerCase() === "luigi") {
+    if (respostaTime.toLowerCase() === "luigi verde") {
       alert("Boa! você acertou a resposta");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
